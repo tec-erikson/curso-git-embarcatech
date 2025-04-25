@@ -12,7 +12,11 @@ Comandos utilizados:
 - Dando proceguimento, os commits foram transferidos para o repositório remoto por meio do comando: git push -u origin 
   master.
 - Por fim, esse arquivo passou pelo mesmo procedimento do arquivo anterior, visando também trasferi-lo para o repositório 
-  remoto, sendo usados os comandos git add comandos-utilizados.txt e git commit -m "meu segundo commit"
+  remoto, sendo usados os comandos:
+	git add comandos-utilizados.txt
+	git commit -m "meu terceiro commit"
+	git push -u origin master
+
 
 
 
