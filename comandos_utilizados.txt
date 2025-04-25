@@ -1,0 +1,18 @@
+Comandos utilizados:
+- Primeiro foi criado um diretório no computador através do comando: mkdir curso-git.
+- Após isso, foi inicializado o repositório git dentro desse diretório através do comando: git init.
+- O próximo passo foi a vinculação do repositório ao nome e e-mail, através dos comandos: git config user.name "Erikson       
+  Pedro" e git config user.email "tecnologoeriksonpedro@gmail.com".
+- Após criar um novo arquivo de texto no repositório local, usou-se o seguinte comando para que ele passe a ser monitorado    
+  para que seja feito o commit (envio do arquivo para versionamento): git add meu_primeiro_arquivo.txt
+- Em seguida, foi realizado o commit (envio das atualizações para versionamento): git commit -m "meu primeiro commit".
+- Posteriormente a isso, após criar um repositório remoto público no GitHub, foi imserido, ao repositório local, o 
+  repositório remoto, através do seguinte comando: git remote add origin https://github.com/tec-erikson/curso-git-
+  embarcatech.git.
+- Dando proceguimento, os commits foram transferidos para o repositório remoto por meio do comando: git push -u origin 
+  master.
+- Por fim, esse arquivo passou pelo mesmo procedimento do arquivo anterior, visando também trasferi-lo para o repositório 
+  remoto, sendo usados os comandos git add comandos-utilizados.txt e git commit -m "meu segundo commit"
+
+
+
