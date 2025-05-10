@@ -1,0 +1,1 @@
+Esse é o arquivo de texto para a tarefa 2 de git
